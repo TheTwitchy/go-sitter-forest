@@ -1,3 +1,0 @@
-
-<!ELEMENT library (book+)>
-<!ELEMENT book (title, author, year)>

@@ -1,8 +1,0 @@
-  either:
-      all:
-          a = "mcbob"
-          b = "bob"
-      all:
-          b = "bill"
-          a = "bob"
-  a = "mcbob"

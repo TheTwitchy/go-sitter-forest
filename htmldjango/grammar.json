@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "3a643167ad9afac5d61e092f08ff5b054576fadf",
-  "grammarSha": "575a542b5c8301101f71481839bf8d6a8623a078e64f4c999dfefb1b3e9b4e36",
-  "language": "htmldjango",
-  "url": "https://github.com/interdependence/tree-sitter-htmldjango",
-  "maintainedBy": "@ObserverOfTime"
-}

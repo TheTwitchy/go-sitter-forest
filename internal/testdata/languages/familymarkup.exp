@@ -1,1 +1,0 @@
-(root (family name: (family_name name: (name)) (relations (relation sources: (sources (name) (unknown)) arrow: (eq) label: (words) (ERROR (name_def name: (name) (ERROR) surname: (surname))) targets: (targets (name_def name: (name)) (ERROR) (comment) (ERROR) (name_def name: (name) (ERROR) surname: (surname)) (comment) (unknown) (comment) (comment))))))

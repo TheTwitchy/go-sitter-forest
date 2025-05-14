@@ -1,1 +1,0 @@
-(configuration (config name: (name (symbol)) (type_definition (string (string_content))) (dependencies (symbol)) (help_text (text))))

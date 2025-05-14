@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270",
-  "grammarSha": "db0d1e06f05a343b850fdfbdf5ca5345bb6ccba50365a4506826b0abac897fce",
-  "language": "ca65",
-  "url": "https://github.com/babasbot/tree-sitter-ca65",
-  "maintainedBy": "@babasbot"
-}

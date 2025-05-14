@@ -1,8 +1,0 @@
-{
-  "reference": "master",
-  "revision": "b1ff0037b665e7e84715390820d6ecbe763a9c79",
-  "grammarSha": "dc3ccfc00944102fa08d72842cc9709b119638771001ca709837732252eca5ee",
-  "language": "meson",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-meson",
-  "maintainedBy": "@Decodetalkers"
-}

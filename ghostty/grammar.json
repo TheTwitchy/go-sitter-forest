@@ -1,8 +1,0 @@
-{
-  "reference": "master",
-  "revision": "59cd40d3f3a359c88d760eaaa0991f3b4033ff03",
-  "grammarSha": "5e167c5147778f335824889ef2cace708d46ce0caecaa24cbdffaf7024086591",
-  "language": "ghostty",
-  "url": "https://github.com/treeman/tree-sitter-ghostty",
-  "maintainedBy": "@treeman"
-}

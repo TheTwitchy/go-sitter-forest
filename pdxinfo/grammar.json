@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "f53aa27c0f93c0b89367894c8858528cf0b85e81",
-  "grammarSha": "e11c957ef6a60fd58aa21cb936532c767af58cef1bece6bee7e24865cde1c344",
-  "language": "pdxinfo",
-  "url": "https://github.com/notpeter/tree-sitter-pdxinfo",
-  "maintainedBy": "@notpeter"
-}

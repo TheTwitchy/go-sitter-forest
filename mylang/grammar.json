@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "72bbf026b26e08aa283984f197ebd9febc394b93",
-  "grammarSha": "97ccb83314645e325d5eca9076ae178e72277ab0d06cf5961a295ca313098979",
-  "language": "mylang",
-  "url": "https://github.com/marc9622/tree-sitter-mylang",
-  "maintainedBy": "@marc9622"
-}

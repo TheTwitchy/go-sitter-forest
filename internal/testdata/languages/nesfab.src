@@ -1,6 +1,0 @@
-fn for() U
-    expression
-    expression
-
-fn baz() UUU[10]
-    expression

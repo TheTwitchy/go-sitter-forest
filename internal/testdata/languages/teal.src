@@ -1,9 +1,0 @@
-
-global record MyPointType
-   x: number
-   y: number
-end
-
-global record MyCompositeType
-   center: MyPointType
-end

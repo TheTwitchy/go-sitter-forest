@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "df6b69967db7d74ab338a86a9ab45c0966c5ee3c",
-  "grammarSha": "bfffefc9fad3395cc85b6b7a163823696326cf176ba76f421421c43bd7ccdc47",
-  "language": "printf",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-printf",
-  "maintainedBy": "@ObserverOfTime"
-}

@@ -1,1 +1,0 @@
-(source_file (variable_declaration (identifier) (builtin_function (builtin_identifier) (arguments (block (expression_statement (builtin_function (builtin_identifier) (arguments (string (string_content))))))))) (function_declaration name: (identifier) (parameters) type: (builtin_type) body: (block)))

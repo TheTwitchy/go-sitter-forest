@@ -1,8 +1,0 @@
-
-let {
-    $author = { name = "John Smith" }
-} in {
-    name = "example-package"
-    version = "1.0.0"
-    author = $author
-}

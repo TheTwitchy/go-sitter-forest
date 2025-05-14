@@ -1,5 +1,0 @@
-
-      mov eax,array
-      xchg eax,[array+4]
-      xchg eax,[array+8]
-      xchg array,eax

@@ -1,7 +1,0 @@
-
-main() {
-  // A standard for loop
-  for (var i = 0; i < 3; i++) {
-    print(i);
-  }
-}

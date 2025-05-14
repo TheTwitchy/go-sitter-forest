@@ -1,7 +1,0 @@
-
-<!DOCTYPE html>
-<%# ^ constant %>
-<html>
-<%# <- punctuation.bracket %>
-<%#  ^ punctuation.bracket %>
-</html>

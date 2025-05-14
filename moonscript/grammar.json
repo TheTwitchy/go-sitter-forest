@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "7c594e6501f046c52250e17095a1cf925069b4af",
-  "grammarSha": "4a8aabfd92f14edc7165233b02eae562e795553b6e05c054b5bcf288894abc1a",
-  "language": "moonscript",
-  "url": "https://github.com/kmafeni04/tree-sitter-moonscript",
-  "maintainedBy": "@kmafeni04"
-}

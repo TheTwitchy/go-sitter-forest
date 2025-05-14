@@ -1,8 +1,0 @@
-{
-  "reference": "master",
-  "revision": "d0441fd4b883ecc0e70140723a1cf5907992639a",
-  "grammarSha": "605b3473ab5ea8270256be1ba38e58504c20c218bb1af44760f723affdecd454",
-  "language": "hyprlang",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-hyprlang",
-  "maintainedBy": "@luckasRanarison"
-}

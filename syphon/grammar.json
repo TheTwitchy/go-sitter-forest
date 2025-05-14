@@ -1,8 +1,0 @@
-{
-  "reference": "master",
-  "revision": "16b2698841e0854dc1c13d8257f62618a954c7fd",
-  "grammarSha": "62295133c2a052d424d4fc7b36f27197d1d96f23a775fd697a4d889f1a97e674",
-  "language": "syphon",
-  "url": "https://github.com/yhyadev/tree-sitter-syphon",
-  "maintainedBy": "@yhyadev"
-}

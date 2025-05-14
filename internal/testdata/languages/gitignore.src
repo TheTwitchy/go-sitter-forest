@@ -1,7 +1,0 @@
-
-amplify/.config/local-*
-amplify/mock-data
-amplify/backend/amplify-meta.json
-amplify/backend/awscloudformation
-build/
-dist/

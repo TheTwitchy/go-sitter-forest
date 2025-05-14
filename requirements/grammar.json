@@ -1,9 +1,0 @@
-{
-  "reference": "master",
-  "revision": "728910099ddea7f1f94ea95a35a70d1ea76a1639",
-  "grammarSha": "6b69519aff8c77dec466180f74d2ddbd14c41605641fd476ec7fec0442a2be3e",
-  "language": "requirements",
-  "altName": "pip requirements",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-requirements",
-  "maintainedBy": "@ObserverOfTime"
-}

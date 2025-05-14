@@ -1,1 +1,0 @@
-(unison (term_declaration (type_signature term_name: (regular_identifier) (type_signature_colon) (term_type (regular_identifier) (arrow_symbol) (regular_identifier))) (term_definition name: (regular_identifier) param: (regular_identifier) (kw_equals) (use_clause (use) (namespace (regular_identifier)) (operator)) (regular_identifier) (operator) (regular_identifier))))

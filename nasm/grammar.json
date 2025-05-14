@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "d1b3638d017f2a8585e26dcfc66fe1df94185e30",
-  "grammarSha": "c86be2aca207d9f88bd75040e9d3cd7aa8cc63d670c17c6b3a610f0452135df5",
-  "language": "nasm",
-  "url": "https://github.com/naclsn/tree-sitter-nasm",
-  "maintainedBy": "@ObserverOfTime"
-}

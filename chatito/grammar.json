@@ -1,8 +1,0 @@
-{
-  "reference": "master",
-  "revision": "b4cbe9ab7672d5106e9550d8413835395a1be362",
-  "grammarSha": "ef1b94c66a90d55c700a6b8b9c322ebeb83da6866224d9e547223b49ed11522e",
-  "language": "chatito",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-chatito",
-  "maintainedBy": "@ObserverOfTime"
-}

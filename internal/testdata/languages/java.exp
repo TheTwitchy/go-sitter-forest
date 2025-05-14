@@ -1,1 +1,0 @@
-(program (import_declaration (scoped_identifier scope: (identifier) name: (identifier)) (asterisk)))

@@ -1,8 +1,0 @@
-{
-  "reference": "master",
-  "revision": "18a1d183c4c0cc40438bae2ebf8191aaf2dee8dc",
-  "grammarSha": "1405f91fa0cea71ac95d2215b8e665641198eb2b160ee8e8beb776c871ede157",
-  "language": "udev",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-udev",
-  "maintainedBy": "@ObserverOfTime"
-}

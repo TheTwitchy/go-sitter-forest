@@ -1,1 +1,0 @@
-(program (programbody (query chained_query: (query array_access: (suffix)) chained_query: (query function: (funcname) function: (args (query compare: (query term: (index (identifier))) compare: (query term: (string))))))))

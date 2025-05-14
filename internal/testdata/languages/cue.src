@@ -1,5 +1,0 @@
-
-a: {
-  F=f: string
-  X="my-identifier": bool
-}

@@ -1,7 +1,0 @@
-
-pick deadbeef pick first commit
-p deadbeef
-drop deadbeef
-pick deadbeef
-fixup deadbeef fix commit for squashing
-f deadbeef

@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "f2b378a9af0b7e1192cff67a5fb45508c927205d",
-  "grammarSha": "fabd0bbaa5658ef0edee0a003d206dc5c0fd749460ac12ac8f096300ab2e8ee3",
-  "language": "systemtap",
-  "url": "https://github.com/ok-ryoko/tree-sitter-systemtap",
-  "maintainedBy": "@ok-ryoko"
-}

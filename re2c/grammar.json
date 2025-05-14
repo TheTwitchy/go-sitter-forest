@@ -1,8 +1,0 @@
-{
-  "reference": "master",
-  "revision": "c18a3c2f4b6665e35b7e50d6048ea3cff770c572",
-  "grammarSha": "2ec0b337df0764ffcaaa54d7400b2a5a03d5e33c7bd736625a769667f132318f",
-  "language": "re2c",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-re2c",
-  "maintainedBy": "@amaanq"
-}

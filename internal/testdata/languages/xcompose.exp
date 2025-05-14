@@ -1,1 +1,0 @@
-(compose (include) (sequence (event (keysym)) (event (keysym)) (event (keysym)) (result (string (text)))) (sequence (event (keysym)) (event (keysym)) (event (keysym)) (result (string (text)))) (sequence (event (keysym)) (event (keysym)) (event (keysym)) (result (string (text)))))

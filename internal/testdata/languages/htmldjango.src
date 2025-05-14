@@ -1,4 +1,0 @@
-
-{% for k, v in defaultdict.items %}
-    Do something with k and v here...
-{% endfor %}

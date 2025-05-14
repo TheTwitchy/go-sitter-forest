@@ -1,8 +1,0 @@
-main=
-  { aliceID, bobID, trudyID } = 
-      initIDCount {
-          aliceID: <- incID,
-          bobID: <- incID,
-          trudyID: <- incID,
-      } |> extractState   
-  aliceID

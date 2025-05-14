@@ -1,5 +1,0 @@
-
-StormEvents
-| where EventType == "Tornado"
-| summarize count() by State
-| order by count_ desc

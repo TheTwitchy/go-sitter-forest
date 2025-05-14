@@ -1,8 +1,0 @@
-module App exposing (Msg(Increment, Decrement, Reset), Other(..))
-
-type Long = Float
-
-type Msg
-  = ViewUpdate ViewModal
-  | OffersUpdate OffersModal
-  | UsersUpdate a UsersModal a

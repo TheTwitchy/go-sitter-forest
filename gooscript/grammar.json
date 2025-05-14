@@ -1,8 +1,0 @@
-{
-  "reference": "mucho",
-  "revision": "56edb211944f955bf7325384f036feb5a688614c",
-  "grammarSha": "0ff46597cdb5d49706cb50dc544bddf5f47219e3c05b5432c5e05aa25ccdb297",
-  "language": "gooscript",
-  "url": "https://github.com/bishan-batel/tree-sitter-gooscript",
-  "maintainedBy": "@bishan-batel"
-}

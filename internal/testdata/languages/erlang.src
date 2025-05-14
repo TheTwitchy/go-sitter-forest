@@ -1,3 +1,0 @@
-
--module(main).
--export([start/0, factorial/1, fibonacci/1]).

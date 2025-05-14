@@ -1,8 +1,0 @@
-@INCLUDE abc.conf
-@SET my_env=1
-
-
-[INPUT]
-    # comment
-    KEY1  VALUE1
-    KEY2  VALUE2

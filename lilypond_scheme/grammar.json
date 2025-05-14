@@ -1,9 +1,0 @@
-{
-  "reference": "main",
-  "revision": "adaeff343863ffd697f204a8715f035dbf216a38",
-  "grammarSha": "75706ba0ac8523a7e473bfe404ae75ba5b9620c5aea9ee3ce2fff55412870e5c",
-  "language": "lilypond_scheme",
-  "url": "https://github.com/nwhetsell/tree-sitter-lilypond-scheme",
-  "maintainedBy": "@nwhetsell",
-  "skipUpdate": true
-}

@@ -1,8 +1,0 @@
-{
-  "reference": "main",
-  "revision": "ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831",
-  "grammarSha": "3027593c6a06804190b56885ef260746cb7e54df42cff45d58a45e02713b6c3d",
-  "language": "mcfuncx",
-  "url": "https://github.com/PFiS1737/tree-sitter-mcfuncx",
-  "maintainedBy": "@PFiS1737"
-}
